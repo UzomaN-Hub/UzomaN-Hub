@@ -19,7 +19,7 @@ Creating World Class page structures
 # Contact Details
 - 📫 [Email](uzomanwaiwu@gmail.com).
 - 📧 [X](https://www.X.com/biguzoma)
-## Featured Projects
+## 🚀 Featured Projects
  | Project | Description | Tech |
  |---------|-------------|------|
  | `Netflix` | Cloned a Netflix website which has a 98% rating | HTML & CSS |
