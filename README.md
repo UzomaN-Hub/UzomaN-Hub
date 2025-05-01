@@ -1,4 +1,6 @@
 ## Hi there 👋
+# i am Uzoma 
+## i love to code
 
 <!--
 **UzomaN-Hub/UzomaN-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
