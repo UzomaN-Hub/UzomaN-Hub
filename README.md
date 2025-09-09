@@ -3,17 +3,26 @@ You are highly welcome to my digital Life. Here you will get to know about a dyn
 
 ---
 ## 👦 A Brief Introduction
-I am an enthusiastic and futuristic Full Stack Developer with five (5) Months of expertise leveraging top technologies and frameworks such as Javascript, node.js, React.js, Bash, CSS to build a variety of scalable and user-friendly websites and applications. I am highly focused on writing clean and maintainable codes as well as building projects that will serve as a solution to world problems. Working in a collaborative environment is one of the places i thrive as i am a good team player.
+I am a passionate software engineer with a strong focus on crafting modern, responsive, seamless user experiences and user-friendly front-end applications leveraging tools such as React.js and Next.js. Alongside front-end development, I also bring experience in building robust back-end solutions with Python and Django.
+Detail-oriented and client-focused, I strive to understand project needs thoroughly and deliver solutions that ensure satisfaction. My approach to every project is guided by a focus on clear communication and effective teamwork. I pride myself on my ability to learn new technologies quickly, which allows me to adapt to diverse challenges and consistently deliver high-quality, impactful solutions.. Working in a collaborative environment is one of the places i thrive as i am a good team player.
 
 ---
 # 🧰 What can i do
 I am highly proficient in the following skills:
-## 🧠 Front-End Development
-Creating World Class user friendly and responsive interfaces for web applications. This is achieved through the use of technologies and frameworks such as:
-- 🖋️ HTML: Creating outstanding framework and skeletal structure
-- 📖 CSS: Performing Excellent styling and buikding responsive designs
-- 🛗 Javascript: Building an outstanding functionality of the web components
-- 📔 Reactjs: Achieving a scalable web interface backed with well constructed codes
+## 🧠 Front-End Development  
+Creating world-class, user-friendly and responsive interfaces for web applications. This is achieved through the use of technologies and frameworks such as:  
+
+- 🛗 **JavaScript**: Building the core functionality of dynamic web components.  
+- 📔 **React.js**: Crafting scalable web interfaces backed with well-structured code.  
+- ⚡ **Next.js**: Enabling server-side rendering and optimized performance for modern web apps.  
+- 🎨 **Tailwind CSS**: Styling applications efficiently with utility-first, responsive design.  
+
+---
+## 🔧 Back-End Development  
+Building robust and secure server-side applications to power the frontend.  
+
+- 🐍 **Python**: Writing clean, versatile, and efficient backend logic.  
+- 🌐 **Django**: Developing secure, scalable, and maintainable web applications quickly.  
 ---
 # Contact Details
 - 📫 [Email](uzomanwaiwu@gmail.com).
