@@ -23,6 +23,14 @@ Building robust and secure server-side applications to power the frontend.
 
 - 🐍 **Python**: Writing clean, versatile, and efficient backend logic.  
 - 🌐 **Django**: Developing secure, scalable, and maintainable web applications quickly.  
+
+---
+## 🗄️ Database  
+Managing structured and unstructured data with modern database systems.  
+
+- 🐘 **PostgreSQL**: Reliable relational database for handling structured data.  
+- 🍃 **MongoDB**: Flexible NoSQL database for scalable applications.  
+  
 ---
 # Contact Details
 - 📫 [Email](uzomanwaiwu@gmail.com).
